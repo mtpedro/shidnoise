@@ -1,2 +1,5 @@
 config.json 
 audio/*
+.DS_Store
+log.json
+shidnoise
